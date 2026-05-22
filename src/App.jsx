@@ -62,7 +62,20 @@ function App() {
       <h1 style={{ fontSize: "45px", marginBottom: "20px" }}>
         Warkop Pas-Pasan - Kahfi Business
       </h1>
-
+<a
+  href="https://wa.me/6285692539105"
+  target="_blank"
+  style={{
+    backgroundColor: "#25D366",
+    color: "white",
+    padding: "10px 20px",
+    borderRadius: "10px",
+    textDecoration: "none",
+    fontWeight: "bold",
+  }}
+>
+  Hubungi WhatsApp
+</a>
       <div style={{ marginBottom: "25px" }}>
         <input
           placeholder="Nama produk"
@@ -113,7 +126,7 @@ function App() {
           <div
             key={index}
             style={{
-              backgroundColor: "rgba(0,0,0,0.65)",
+              backgroundColor: "rgba(255, 255, 255, 0.59)",
               color: "white",
               padding: "20px",
               margin: "20px auto",
